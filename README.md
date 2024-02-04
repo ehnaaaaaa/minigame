@@ -62,3 +62,22 @@ git branch
 git checkout <название_ветки>
 git merge <название_ветки>
 ```
+
+# Задание №2
+
+```
+git diff
+```
+
+![photo_2024-02-04_14-20-45.jpg](..%2FDesktop%2Fphoto_2024-02-04_14-20-45.jpg)
+
+```
+git log
+```
+
+![photo_2024-02-04_14-24-39.jpg](..%2FDesktop%2Fphoto_2024-02-04_14-24-39.jpg)
+
+Перенос HEAD на определенный коммит
+
+![photo_2024-02-04_14-56-00.jpg](..%2FDesktop%2Fphoto_2024-02-04_14-56-00.jpg)
+
